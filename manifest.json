@@ -1,9 +1,10 @@
 {
-	"id": "917976251",
-	"authors": ["WPCom"],
-	"origin": "https://github.com/WPCom100/FS25AMP.git",
-	"url": "https://github.com/WPCom100/FS25AMP",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "36e44e16-8532-49d2-919c-bf3d1fce25eb",
+    "authors": [
+        "Dakota - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Dakota - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Dakota - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Dakota - Made with AMP Config Generator"
 }
